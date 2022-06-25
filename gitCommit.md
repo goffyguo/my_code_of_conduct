@@ -55,3 +55,5 @@ revert: 代码还原的变动
 #### closed
 标记项目管理工具中的bug版本
 
+https://www.conventionalcommits.org/zh-hans/v1.0.0/
+
